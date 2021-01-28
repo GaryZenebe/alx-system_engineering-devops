@@ -1,2 +1,3 @@
 #!/bin/bash
-echo ($UID) \n
+id -u root 
+
